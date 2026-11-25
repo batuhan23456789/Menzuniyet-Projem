@@ -1,2 +1,2 @@
 # Menzuniyet-Projem
-kodland pro derslerimin son projesi
+Python pro derslerimin son projesi
